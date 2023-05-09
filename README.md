@@ -28,7 +28,6 @@ Technical Knowledge
   - SQL: MySQL.
   - NoSQL: MongoDB.
   - Cloud Hosted: Firebase.
-- 
 
 Experience
 -
