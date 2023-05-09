@@ -27,14 +27,23 @@ Technical Knowledge
 - Database Management
   - SQL: MySQL.
   - NoSQL: MongoDB.
+  - Cloud Hosted: Firebase.
 
 Experience
+-
 - Ambassador at Tecnológico de Monterrey Campus Aguascalientes.
   - 2019-2020.
-  - 
+  - Yearly program focused on attracting talent into the school by generating strategies in which actual students promote the life and advantages of studying there.
+  - Multimedia content creation, networking, public speaking and intercommunication skills.
+  - https://tec.mx/es/embajadores-tec
 
 Projects
 -
+- BAMX: Volunteer manager.
+  - Flutter app created for Banco de Alimentos (https://bamx.org.mx/)
+  - Manage volunteering events for the company, allow registration of events, programs and users, authentication system, profile management.
+  - More at: https://github.com/sant-gdc/BAMX
+- 
 
 Skills
 - Dedication, perseverance & motivation.
