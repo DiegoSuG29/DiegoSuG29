@@ -56,6 +56,7 @@ Projects
 - More at: https://github.com/DiegoSuG29/ResaltadorLexico
 
 Skills
+-
 - Dedication, perseverance & motivation.
 - Leadership.
 - Communication, networking, proactivity, active listening.
