@@ -29,35 +29,8 @@ Technical Knowledge
   - NoSQL: MongoDB.
   - Cloud Hosted: Firebase.
 
-Experience
--
-- Ambassador at Tecnológico de Monterrey Campus Aguascalientes.
-  - 2019-2020.
-  - Yearly program focused on attracting talent into the school by generating strategies in which actual students promote the life and advantages of studying there.
-  - Multimedia content creation, networking, public speaking and intercommunication skills.
-  - https://tec.mx/es/embajadores-tec
 
-Projects
+My CV
 -
-- BAMX: Volunteer manager.
-  - Flutter app created for Banco de Alimentos (https://bamx.org.mx/)
-  - Manage volunteering events for the company, allow registration of events, programs and users, authentication system, profile management.
-  - More at: https://github.com/sant-gdc/BAMX
-- Unreal Engine: Multi-agent System simulator.
-  - Application using both Unreal Engine & Python to simulate a crossroad in which all the agents (cars) act accordingly to avoid crashes (Stop on red lights, control passing of cars, walking people moving only on streets or when the light is red, etc).
-  - More at: https://drive.google.com/drive/folders/125gUlZ3PZ6ExznNqX25XWrjGoDPAHh8t?usp=share_link
-  - Demo Video: https://www.youtube.com/watch?v=kTqpcQKjzYU
-- Data Analysis: Nucleotides.
-  - R program that analyzes different DNA sequences depending on viruses to find similarities & differences.
-  - More at: https://github.com/DiegoSuG29/NucleotidesAnalysis
-- Lexical Interpretator.
-- Analyzer that interprets a code using regular expressions & and interpreter and highlights each of the components of the code with a different color.
-- More at: https://github.com/DiegoSuG29/ResaltadorLexico
+[![CV](https://img.shields.io/badge/Download_it_here!-blue)](https://github.com/DiegoSuG29/DiegoSuG29/blob/main/DiegoSu_CV.pdf)
 
-Skills
--
-- Dedication, perseverance & motivation.
-- Leadership.
-- Communication, networking, proactivity, active listening.
-- Critical thinking.
-- Responsibility, punctuality & organization.
